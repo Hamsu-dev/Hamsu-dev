@@ -35,15 +35,3 @@
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Unreal Engine 5 FPS Game Showcase](https://img.youtube.com/vi/7dreJEkzvno/maxresdefault.jpg)](https://www.youtube.com/watch?v=7dreJEkzvno)
-[![Game review website](https://cdn.discordapp.com/attachments/1238064462628519977/1239093538684141588/image.png?ex=6641ab48&is=664059c8&hm=62f43aa0541708213bd17181b346e246bf9b376b85d214b1fa6fa9c30f04bb9e&)](https://www.youtube.com/watch?v=i_RB9yuH8PU)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@xHamsu?sub_confirmation=1)
-
-
-#
