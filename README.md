@@ -2,7 +2,7 @@
 
 **`CS Student / Game developer`**
 
-👋 Hey there! I’m a CS student as passionate about game development as I am about playing games. Check out what I’ve crafted—it’s more fun than debugging on a Friday night! 🎮💻
+i make games
 
 <p align="left">
    <!-- Link to your LinkedIn profile for professional networking -->
